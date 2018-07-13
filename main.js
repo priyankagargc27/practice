@@ -35,7 +35,7 @@ const bestyears = [];
     const currentYear = birthRates[i];
     if (currentYear.birthRate>15)
     {
-    bestyears.push(currentYear)
+    bestyears.push(currentYear);
     }
     }
 
@@ -54,7 +54,7 @@ const bestyears = [];
     //bestyears.push(currentYear)
     //}
 //}
-//console.log(bestYears)
+console.log(bestyears);
 
 
 //---------------POLITICIAN---------------//
